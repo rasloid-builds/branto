@@ -1,0 +1,1 @@
+(()=>{"use strict";var e;(e=document.getElementById("main-alf")).querySelector(".title").addEventListener("click",(function(){e.classList.toggle("opened")})),window.addEventListener("load",(function(){var e={limit:15,width:"520",attach:"*"};window.innerWidth/window.devicePixelRatio<835&&delete e.width,window.VK.Widgets.Comments("vk_comments",e)}))})();
